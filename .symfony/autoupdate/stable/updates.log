@@ -1,0 +1,35 @@
+2020/07/01 15:04:57 Checking for updates (current version: <info>v4.15.0</>)
+2020/07/01 15:05:02 Update is located at https://github.com/symfony/cli/releases/download/v4.16.4/symfony_linux_amd64.gz
+2020/07/01 15:05:02 Downloading new binary to /home/lyudmila/.symfony/autoupdate/stable/tmp-download573536841
+2020/07/01 15:05:09 Checksums match, continue
+2020/07/01 15:05:09 Detecting binary compression
+2020/07/01 15:05:09 Content-Type detected: application/x-gzip
+2020/07/01 15:05:12 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/stable/2020-07-01_15-05-12-5c5dfbc-old
+2020/07/01 15:16:36 Checking for updates (current version: <info>v4.16.4</>)
+2020/07/01 15:16:46 Checking for updates (current version: <info>v4.16.4</>)
+2020/07/03 02:48:25 Checking for updates (current version: <info>v4.16.4</>)
+2020/07/03 02:48:26 <comment>Checking for updates timeout expired</>
+2020/07/03 02:59:30 Checking for updates (current version: <info>v4.16.4</>)
+2020/09/21 23:09:10 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/09/21 23:09:10 Checking for updates (current version: <info>v4.18.4</>)
+2020/09/24 11:27:53 Checking for updates (current version: <info>v4.18.4</>)
+2020/09/24 11:27:53 Get "https://get.symfony.com/cli/stable/manifest.json": dial tcp: lookup get.symfony.com on 127.0.0.53:53: server misbehaving
+2020/09/28 12:37:23 Checking for updates (current version: <info>v4.18.4</>)
+2020/09/28 12:37:24 <comment>Checking for updates timeout expired</>
+2020/09/28 12:42:25 Checking for updates (current version: <info>v4.18.4</>)
+2020/09/28 12:42:30 Update is located at https://github.com/symfony/cli/releases/download/v4.19.0/symfony_linux_amd64.gz
+2020/09/28 12:42:30 Downloading new binary to /home/lyudmila/.symfony/autoupdate/stable/tmp-download708023447
+2020/09/28 12:42:49 Checksums match, continue
+2020/09/28 12:42:49 Detecting binary compression
+2020/09/28 12:42:49 Content-Type detected: application/x-gzip
+2020/09/28 12:42:50 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/stable/2020-09-28_12-42-50-3ff0610-old
+2020/09/28 12:42:50 Cleaning previous releases
+2020/09/28 12:42:50 Inspecting directory /home/lyudmila/.symfony/autoupdate/stable
+2020/09/28 12:42:50 Found potential backup: 2020-07-01_15-05-12-5c5dfbc-old
+2020/09/28 12:42:50 Backup confirmed: 2020-07-01_15-05-12-5c5dfbc-old
+2020/09/28 12:42:50 Found potential backup: 2020-09-28_12-42-50-3ff0610-old
+2020/09/28 12:42:50 Backup confirmed: 2020-09-28_12-42-50-3ff0610-old
+2020/09/28 12:42:50 No backup to delete
+2020/09/28 12:43:06 Checking for updates (current version: <info>v4.19.0</>)
+2020/10/05 11:56:55 Checking for updates (current version: <info>v4.19.0</>)
+2020/10/05 12:07:19 <comment>Checking for updates timeout expired</>

@@ -1,0 +1,8 @@
+{
+    "dir": "/etc/nginx/conf.d",
+    "watch": null,
+    "pid": 17770,
+    "port": 8002,
+    "scheme": "https",
+    "args": null
+}

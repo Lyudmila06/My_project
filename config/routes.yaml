@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\AdminController::home
+
+#edited
+# api/config/routes.yaml
+authentication_token:
+  path: /authentication_token
+  methods: ['POST']

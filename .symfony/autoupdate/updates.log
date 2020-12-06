@@ -1,0 +1,70 @@
+2020/03/28 03:08:16 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/03/28 03:08:16 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:19:06 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/06/27 02:19:06 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:19:10 <comment>Checking for updates timeout expired</>
+2020/06/27 02:40:31 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/06/27 02:40:32 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:40:36 <comment>Checking for updates timeout expired</>
+2020/06/27 02:40:59 We didn't manage to check version for a long time, increasing timeout to 4s
+2020/06/27 02:40:59 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:41:14 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/06/27 02:41:14 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download641113105
+2020/06/27 02:41:21 Checksums match, continue
+2020/06/27 02:41:21 Detecting binary compression
+2020/06/27 02:41:21 Content-Type detected: application/x-gzip
+2020/06/27 02:41:26 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-06-27_02-41-26-63a8600-old
+2020/06/27 02:41:51 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:42:00 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/06/27 02:42:00 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download693674999
+2020/06/27 02:42:08 Checksums match, continue
+2020/06/27 02:42:08 Detecting binary compression
+2020/06/27 02:42:08 Content-Type detected: application/x-gzip
+2020/06/27 02:42:12 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-06-27_02-42-12-63a8600-old
+2020/06/27 02:43:54 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 02:43:59 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/06/27 02:43:59 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download586298412
+2020/06/27 02:44:08 Checksums match, continue
+2020/06/27 02:44:08 Detecting binary compression
+2020/06/27 02:44:08 Content-Type detected: application/x-gzip
+2020/06/27 02:44:10 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-06-27_02-44-10-63a8600-old
+2020/06/27 03:19:17 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 03:19:30 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/27 03:19:33 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/06/27 03:19:33 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download734790977
+2020/06/27 03:19:42 Checksums match, continue
+2020/06/27 03:19:42 Detecting binary compression
+2020/06/27 03:19:42 Content-Type detected: application/x-gzip
+2020/06/27 03:19:45 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-06-27_03-19-45-63a8600-old
+2020/06/27 03:35:39 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/30 15:48:36 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/30 15:48:36 <comment>Checking for updates timeout expired</>
+2020/06/30 15:49:41 Checking for updates (current version: <info>v4.13.3</>)
+2020/06/30 15:49:42 <comment>Checking for updates timeout expired</>
+2020/07/01 12:01:38 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 12:01:41 <comment>Checking for updates timeout expired</>
+2020/07/01 13:54:59 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 13:55:00 <comment>Checking for updates timeout expired</>
+2020/07/01 13:58:41 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 13:58:43 <comment>Checking for updates timeout expired</>
+2020/07/01 15:02:49 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 15:02:50 <comment>Checking for updates timeout expired</>
+2020/07/01 15:03:33 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 15:03:42 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/07/01 15:03:42 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download952923023
+2020/07/01 15:03:49 Checksums match, continue
+2020/07/01 15:03:49 Detecting binary compression
+2020/07/01 15:03:49 Content-Type detected: application/x-gzip
+2020/07/01 15:03:53 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-07-01_15-03-53-63a8600-old
+2020/07/01 15:04:21 Checking for updates (current version: <info>v4.13.3</>)
+2020/07/01 15:04:24 Update is located at https://github.com/symfony/cli/releases/download/v4.15.0/symfony_linux_amd64.gz
+2020/07/01 15:04:24 Downloading new binary to /home/lyudmila/.symfony/autoupdate/tmp-download449982236
+2020/07/01 15:04:33 Checksums match, continue
+2020/07/01 15:04:33 Detecting binary compression
+2020/07/01 15:04:33 Content-Type detected: application/x-gzip
+2020/07/01 15:04:37 Backuping current binary from /usr/local/bin/symfony to /home/lyudmila/.symfony/autoupdate/2020-07-01_15-04-37-63a8600-old
+2020/07/01 15:04:37 Cleaning previous releases
+2020/07/01 15:04:37 Inspecting directory /home/lyudmila/.symfony/autoupdate
+2020/07/01 15:04:37 Found potential backup: 2020-07-01_15-04-37-63a8600-old
+2020/07/01 15:04:37 Backup confirmed: 2020-07-01_15-04-37-63a8600-old
+2020/07/01 15:04:37 No backup to delete

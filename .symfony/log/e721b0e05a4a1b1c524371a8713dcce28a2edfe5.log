@@ -1,0 +1,3 @@
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-05T13:55:53Z","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-10-05T13:55:53Z","message":"Using PHP version 7.4.10 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.10","path":"/usr/sbin/php-fpm7.4","port":45551,"time":"2020-10-05T13:55:53Z","message":"listening"}

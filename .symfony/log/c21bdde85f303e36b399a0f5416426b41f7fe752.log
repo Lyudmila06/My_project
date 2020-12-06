@@ -1,0 +1,1 @@
+{"level":"warn","source":"server","error":"Passthru script \"/index.php\" does not exist under /home/lyudmila/: stat /home/lyudmila/index.php: no such file or directory","time":"2020-09-28T12:54:51Z","message":"unable to detect the front controller, disabling the PHP server"}

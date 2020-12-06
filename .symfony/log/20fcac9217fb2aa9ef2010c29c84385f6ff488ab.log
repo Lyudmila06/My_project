@@ -1,0 +1,9 @@
+{"level":"debug","source":"server","source":"PHP","time":"2020-07-03T02:47:46Z","message":"Reloading PHP versions"}
+{"level":"debug","source":"server","source":"PHP","time":"2020-07-03T02:47:47Z","message":"Using PHP version 7.4.7 (from default version in $PATH)"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","port":44229,"time":"2020-07-03T02:47:47Z","message":"listening"}
+{"level":"debug","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:47Z","message":"started"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:48Z","message":"'user' directive is ignored when FPM is not running as root"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:48Z","message":"'group' directive is ignored when FPM is not running as root"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:48Z","message":"fpm is running, pid 4772"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:48Z","message":"ready to handle connections"}
+{"level":"info","source":"server","source":"PHP","php":"7.4.7","path":"/usr/sbin/php-fpm7.4","time":"2020-07-03T02:47:48Z","message":"systemd monitor interval set to 10000ms"}

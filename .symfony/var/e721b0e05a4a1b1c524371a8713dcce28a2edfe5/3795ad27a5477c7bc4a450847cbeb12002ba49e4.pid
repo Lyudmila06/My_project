@@ -1,0 +1,15 @@
+{
+    "dir": "/home/lyudmila/my_project",
+    "watch": null,
+    "pid": 20909,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "/usr/sbin/php-fpm7.4",
+        "--nodaemonize",
+        "--fpm-config",
+        "/home/lyudmila/.symfony/php/e721b0e05a4a1b1c524371a8713dcce28a2edfe5/fpm-7.4.10.ini",
+        "--force-stderr"
+    ],
+    "name": "PHP-FPM"
+}

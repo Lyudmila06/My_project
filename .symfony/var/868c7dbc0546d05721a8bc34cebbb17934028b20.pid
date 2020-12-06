@@ -1,0 +1,8 @@
+{
+    "dir": "/etc/php/7.4/fpm",
+    "watch": null,
+    "pid": 3156,
+    "port": 8001,
+    "scheme": "https",
+    "args": null
+}
